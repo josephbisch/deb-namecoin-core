@@ -1,0 +1,15 @@
+Source: namecoin-core
+Section: unknown
+Priority: optional
+Maintainer: Joseph Bisch <joseph.bisch@gmail.com>
+Build-Depends: debhelper (>= 9)
+Standards-Version: 3.9.6
+Homepage: https://namecoin.org
+#Vcs-Git: git://anonscm.debian.org/collab-maint/namecoin-core.git
+#Vcs-Browser: http://anonscm.debian.org/?p=collab-maint/namecoin-core.git;a=summary
+
+Package: namecoind
+Architecture: any
+Depends: ${shlibs:Depends}, ${misc:Depends}
+Description: <insert up to 60 chars description>
+ <insert long description, indented with spaces>

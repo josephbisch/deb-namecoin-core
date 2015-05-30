@@ -1,0 +1,12 @@
+config.log
+
+src/crypto/libbitcoin_crypto.a
+src/libbitcoin_cli.a
+src/libbitcoin_common.a
+src/libbitcoin_server.a
+src/libbitcoin_util.a
+src/libbitcoin_wallet.a
+src/qt/libbitcoinqt.a
+src/test/bctest.pyc
+src/test/buildenv.pyc
+src/univalue/libbitcoin_univalue.a

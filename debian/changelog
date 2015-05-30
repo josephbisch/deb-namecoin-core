@@ -1,0 +1,5 @@
+namecoin-core (0.10.1-1) unstable; urgency=low
+
+  * Initial release (Closes: #nnnn)  <nnnn is the bug number of your ITP>
+
+ -- Joseph Bisch <joseph.bisch@gmail.com>  Sat, 30 May 2015 19:03:00 -0400
